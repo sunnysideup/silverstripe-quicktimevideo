@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/quicktimevideo/trunk">
+    <file name="_config.php" size="384" time="2015-03-14T10:22:55+13:00" unixtime="1426281775" sha1="07060180001a0ec14992f8625701ea93ce202b0d" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <file name="QuickTimeVideo.php" size="161" time="2015-03-14T10:22:55+13:00" unixtime="1426281775" sha1="0caaeef4690d70d91c7d337bab28fcc5efb06aa9" xml="tokens/code/QuickTimeVideo.php.xml"/>
+    </dir>
+  </dir>
+</source>
